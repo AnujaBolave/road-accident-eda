@@ -14,6 +14,8 @@ Exploratory Data Analysis on Road Accident Severity Analysis in India  using Pyt
 - Dataset used: [Download here](https://drive.google.com/file/d/17UJaPS_inD8v-ikAzdZJFPEpXrELGWIu/view?usp=drive_link)
 
 🖼 Images / Plots
+
+
 ![Accident Severity Distribution](images/accident_severity_distribution.png)
 Insights:
 - Most accidents are minor → focus on reducing minor accidents.
